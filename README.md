@@ -30,6 +30,7 @@ Alternative backend stacks (choose one based on your team’s language/runtime):
 - PostgreSQL
 - MongoDB
 - Firebase Firestore
+Use PostgreSQL for relational/transactional workflows, MongoDB for flexible document models, and Firestore for real-time sync with managed infrastructure.
 
 ### Authentication
 - JWT Authentication
@@ -50,5 +51,5 @@ Since this project already aligns with Java, React, Spring Boot, Docker, and AI-
 - Backend: Spring Boot
 - AI: OpenAI API + LangChain
 - Database: PostgreSQL
-- Deployment: Docker + Render/Railway for Spring Boot backend, Vercel for frontend
+- Deployment: Docker + Render (simple managed deploys) or Railway (fast iteration workflows) for Spring Boot backend, Vercel for frontend
 - Authentication: JWT + OAuth
