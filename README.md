@@ -5,8 +5,10 @@ AI-powered customer support chatbot designed to automate conversations, answer u
 
 For an AI Customer Support Chatbot project, you can use a modern full-stack + AI stack like this:
 
-### Frontend
+### Development Tools
 - Visual Studio Code
+
+### Frontend
 - React
 - Next.js
 - Tailwind CSS
@@ -43,7 +45,7 @@ For an AI Customer Support Chatbot project, you can use a modern full-stack + AI
 ## Recommended Stack for This Project
 
 Since this project already aligns with Java, React, Spring Boot, Docker, and AI-oriented work:
-- Frontend: React + Tailwind
+- Frontend: React + Tailwind CSS
 - Backend: Spring Boot
 - AI: OpenAI API + LangChain
 - Database: PostgreSQL
