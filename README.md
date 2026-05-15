@@ -14,6 +14,7 @@ For an AI Customer Support Chatbot project, you can use a modern full-stack + AI
 - Tailwind CSS
 
 ### Backend
+Alternative backend stacks (choose one based on your team’s language/runtime):
 - Node.js
 - Express.js
 - Spring Boot
@@ -28,7 +29,7 @@ For an AI Customer Support Chatbot project, you can use a modern full-stack + AI
 ### Database
 - PostgreSQL
 - MongoDB
-- Firebase
+- Firebase Firestore
 
 ### Authentication
 - JWT Authentication
@@ -49,5 +50,5 @@ Since this project already aligns with Java, React, Spring Boot, Docker, and AI-
 - Backend: Spring Boot
 - AI: OpenAI API + LangChain
 - Database: PostgreSQL
-- Deployment: Docker + Vercel/Render
+- Deployment: Docker + Render/Railway for Spring Boot backend, Vercel for frontend
 - Authentication: JWT + OAuth
